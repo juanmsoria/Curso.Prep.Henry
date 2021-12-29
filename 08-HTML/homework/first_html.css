@@ -1,0 +1,22 @@
+body{
+    background-color: chartreuse;
+}
+.linkyoutube{
+    font-size: 55px;
+    font-weight: bolder;
+    text-transform: lowercase;
+    text-align: center;
+
+}
+.mono{
+    width: 670px;
+    height: 498px;
+    border-radius: 45px;
+    border-style: double;
+
+}
+h4{
+    padding: 14px;
+    text-indent: -17px;
+    margin-right: 260px;
+}
