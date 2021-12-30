@@ -1,22 +1,74 @@
 body{
-    background-color: chartreuse;
+    background-color: rgb(3, 129, 56);
 }
-.linkyoutube{
-    font-size: 55px;
-    font-weight: bolder;
-    text-transform: lowercase;
+.titulo{
+    position: relative;
+    font-family: Alba Super;
+    font-size: 148px;
+    margin: 0px;
+    top: 20px;
     text-align: center;
-
 }
-.mono{
-    width: 670px;
-    height: 498px;
-    border-radius: 45px;
-    border-style: double;
-
+.subtitulo{
+    position: absolute;
+    font-family: Alba Super;
+    top: 220px;
+    left: 615px;
+    text-align: center;
+    font-size: 16px;
+}
+.imagentitulo{
+    width: 1330px;
+    height: 480px;
+    position: absolute;
+    top: 120px;
 }
 h4{
-    padding: 14px;
-    text-indent: -17px;
-    margin-right: 260px;
+    font-family: Helvetica;
+    text-align: justify;
+    font-style: italic;
+    margin-top: 319px;
+}
+.imgcorta1{
+    position: relative;
+    width: 85px;
+    height: 85px;
+    border-radius: 44px;
+}
+.mono{
+    width: 120px;
+    height: 95px;
+    border-radius: 45px;
+    position: relative;
+}
+.birra1{
+    display: flex;
+    align-items: center;
+    color: brown;
+    font-style: inherit;
+    font-weight: bolder ;
+    top: 500px;
+    width: 550px;
+    background-color: darkolivegreen;
+    border-radius: 25px;
+    font-size: 25px;
+    
+}
+.itemspositivos{
+    position: absolute;
+    top: 885px;
+    left: 650px;
+    font-family: Air Regular, Tahoma;
+    font-size: 32px;
+    text-align: right;
+}
+.img2{
+    width: 15px;
+    height: 15px;
+}
+.linkyoutube{
+    font-size: 19px;
+    font-weight: bolder;
+    text-align: left;
+    margin: 0px;
 }
